@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Roads API Demo</title>
+    <style>
+      html, body, #map {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+
+      #panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+      }
+
+      #bar {
+        width: 240px;
+        background-color: rgba(255, 255, 255, 0.75);
+        margin: 8px;
+        padding: 4px;
+        border-radius: 4px;
+      }
+
+      #autoc {
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      #dropdown{
+        width: 240px;
+        height:30px;
+        margin-left: 10px;
+        margin-top:30px;
+        line-height: 30px;
+        background-color: rgba(255, 255, 255, 0.75);
+      }
+      #dropdown>select{
+        height: 30px;
+        width: 100%;
+      }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=drawing,places"></script>
+	  
+    <script type="text/javascript" src="demo.js"></script>
+  </head>
+
+  <body>
+    <div id="map"></div>
+    <div id="bar">
+      <p class="auto">From:<input style="margin-left: 15px" type="text" id="from"/></p>
+      <p class="auto">To:<input style="margin-left: 25px" type="text" id="to"/></p>
+      <p><a id="clear" href="#">Click here</a> to apply map.</p>
+    </div>
+    <div id="dropdown">
+      <select onchange="changeDate(this.value)">
+        <option value="2017-03-07 04:00:00">2017-03-07 04:00:00</option>
+        <option value="2017-03-08 00:00:00">2017-03-08 00:00:00</option>
+        <option value="2017-03-08 02:00:00">2017-03-08 02:00:00</option>
+        <option value="2017-03-08 04:00:00">2017-03-08 04:00:00</option>
+        <option value="2017-03-08 06:00:00">2017-03-08 06:00:00</option>
+        <option value="2017-03-08 08:00:00">2017-03-08 08:00:00</option>
+        <option value="2017-03-08 10:00:00">2017-03-08 10:00:00</option>
+        <option value="2017-03-09 00:00:00">2017-03-09 00:00:00</option>
+        <option value="2017-03-09 02:00:00">2017-03-09 02:00:00</option>
+        <option value="2017-03-09 04:00:00">2017-03-09 04:00:00</option>
+        <option value="2017-03-09 06:00:00">2017-03-09 06:00:00</option>
+        <option value="2017-03-09 08:00:00">2017-03-09 08:00:00</option>
+        <option value="2017-03-09 10:00:00">2017-03-09 10:00:00</option>
+        <option value="2017-03-10 02:00:00">2017-03-10 02:00:00</option>
+        <option value="2017-03-10 04:00:00">2017-03-10 04:00:00</option>
+      </select>
+    </div>
+  </body>
+</html>

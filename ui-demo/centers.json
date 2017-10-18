@@ -1,0 +1,206 @@
+[
+ {
+   "ID": 101,
+   "NAME": "Vironniemi (Estnäs)",
+   "LAT": 60.1703,
+   "LONG": 24.9568
+ },
+ {
+   "ID": 102,
+   "NAME": "Ullanlinna (Ulrikasborg)",
+   "LAT": 60.15841,
+   "LONG": 24.94904
+ },
+ {
+   "ID": 103,
+   "NAME": "Kampinmalmi (Kampmalmen)",
+   "LAT": 60.1571993712,
+   "LONG": 24.9083963664
+ },
+ {
+   "ID": 104,
+   "NAME": "Taka-Töölö (Bortre Tölö)",
+   "LAT": 60.18164,
+   "LONG": 24.91812
+ },
+ {
+   "ID": 105,
+   "NAME": "Lauttasaari[1] (Lauttasaari)",
+   "LAT": 60.15733,
+   "LONG": 24.87725
+ },
+ {
+   "ID": 201,
+   "NAME": "Reijola (Grejus)",
+   "LAT": 62.54306,
+   "LONG": 29.84068
+ },
+ {
+   "ID": 202,
+   "NAME": "Munkkiniemi[1] (Munksnäs)",
+   "LAT": 60.19827,
+   "LONG": 24.87599
+ },
+ {
+   "ID": 203,
+   "NAME": "Haaga[1] (Haga)",
+   "LAT": 60.22186,
+   "LONG": 24.89619
+ },
+ {
+   "ID": 204,
+   "NAME": "Pitäjänmäki (Sockenbacka)",
+   "LAT": 60.22298,
+   "LONG": 24.86206
+ },
+ {
+   "ID": 205,
+   "NAME": "Kaarela[1] (Kårböle)",
+   "LAT": 60.25123,
+   "LONG": 24.88134
+ },
+ {
+   "ID": 301,
+   "NAME": "Kallio (Berghäll)",
+   "LAT": 60.18429,
+   "LONG": 24.94927
+ },
+ {
+   "ID": 302,
+   "NAME": "Alppiharju[1] (Åshöjden)",
+   "LAT": 60.188327,
+   "LONG": 24.953095
+ },
+ {
+   "ID": 303,
+   "NAME": "Vallila (Vallgård)",
+   "LAT": 60.19444,
+   "LONG": 24.95702
+ },
+ {
+   "ID": 304,
+   "NAME": "Pasila[1] (Böle)",
+   "LAT": 60.19898,
+   "LONG": 24.93285
+ },
+ {
+   "ID": 305,
+   "NAME": "Vanhakaupunki (Gammelstaden)",
+   "LAT": 60.21616,
+   "LONG": 24.97881
+ },
+ {
+   "ID": 401,
+   "NAME": "Maunula (Månsas)",
+   "LAT": 60.2298,
+   "LONG": 24.93058
+ },
+ {
+   "ID": 402,
+   "NAME": "Länsi-Pakila[1] (Västra Baggböle)",
+   "LAT": 60.24113,
+   "LONG": 24.92712
+ },
+ {
+   "ID": 403,
+   "NAME": "Tuomarinkylä[1] (Domarby)",
+   "LAT": 60.25637,
+   "LONG": 24.96682
+ },
+ {
+   "ID": 404,
+   "NAME": "Oulunkylä (Åggelby)",
+   "LAT": 60.22908,
+   "LONG": 24.96342
+ },
+ {
+   "ID": 405,
+   "NAME": "Itä-Pakila (Östra Baggböle)",
+   "LAT": 60.24352,
+   "LONG": 24.95883
+ },
+ {
+   "ID": 501,
+   "NAME": "Latokartano (Ladugården)",
+   "LAT": 60.22756,
+   "LONG": 25.02753
+ },
+ {
+   "ID": 502,
+   "NAME": "Pukinmäki[1] (Bocksbacka)",
+   "LAT": 60.24496,
+   "LONG": 24.98904
+ },
+ {
+   "ID": 503,
+   "NAME": "Malmi (Malm)",
+   "LAT": 60.25102,
+   "LONG": 25.01056
+ },
+ {
+   "ID": 504,
+   "NAME": "Suutarila (Skomakarböle)",
+   "LAT": 60.28092,
+   "LONG": 25.01095
+ },
+ {
+   "ID": 505,
+   "NAME": "Puistola (Parkstad)",
+   "LAT": 60.27136,
+   "LONG": 25.04522
+ },
+ {
+   "ID": 506,
+   "NAME": "Jakomäki[1] (Jakobacka)",
+   "LAT": 60.26013,
+   "LONG": 25.07802
+ },
+ {
+   "ID": 601,
+   "NAME": "Kulosaari (Brändö)",
+   "LAT": 60.18662,
+   "LONG": 25.00897
+ },
+ {
+   "ID": 602,
+   "NAME": "Herttoniemi (Hertonäs)",
+   "LAT": 60.19473,
+   "LONG": 25.03262
+ },
+ {
+   "ID": 603,
+   "NAME": "Laajasalo (Degerö) 60.17197",
+   "LAT": 25.04326,
+   "LONG": null
+ },
+ {
+   "ID": 701,
+   "NAME": "Vartiokylä (Botby) 60.21723",
+   "LAT": 25.09558,
+   "LONG": null
+ },
+ {
+   "ID": 702,
+   "NAME": "Myllypuro[1] (Kvarnbäcken)",
+   "LAT": 60.22359,
+   "LONG": 25.06776
+ },
+ {
+   "ID": 703,
+   "NAME": "Mellunkylä[1] (Mellungsby)",
+   "LAT": 60.23363,
+   "LONG": 25.10208
+ },
+ {
+   "ID": 704,
+   "NAME": "Vuosaari[1] (Nordsjö)",
+   "LAT": 60.20879,
+   "LONG": 25.14373
+ },
+ {
+   "ID": 801,
+   "NAME": "Östersundom",
+   "LAT": 60.2514,
+   "LONG": 25.17374
+ }
+]
